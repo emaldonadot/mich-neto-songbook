@@ -731,5 +731,583 @@ engañar el corazón de una mujer.
 Abre tú corazón, abre tú corazón
           Bm                 A                 D
 alguien ilegal que puede engañar el corazón de una mujer (x2)`
+  },
+  {
+    id: "sabor-a-chocolate",
+    title: "Sabor a Chocolate",
+    artist: "Elefante",
+    key: "Am",
+    capo: 0,
+    source: "https://chords.lacuerda.net/elefante/sabor_a_chocolate.shtml",
+    body: `[Intro]
+Am  Dm  E7
+
+[Verse 1]
+ Am                    Dm
+tienes unos ojos que me invitan a probarte
+  E7                 Am
+piel de duraznillo corazón de chocolate
+                          Dm
+alma de manzana que me invita al paraíso
+      E7                       Am
+y un par de melones porque Dios así lo quiso
+
+[Chorus]
+              Dm     E7             Am
+porque te fuiste cuando es que volveras
+              Dm        E7              F      G
+que cosa me diste, que no te podido olvidar.
+
+[Verse 2]
+ Am                   Dm
+eres un tesoro escondido entre mi cama
+   E7                     Am
+lluvia por la noche, solecito en la mañana
+                   Dm
+aguita de coco, sirena en la playa
+    E7                    Am
+mi sal, mi pimienta, mi niña mimada.
+
+[Chorus]
+               Dm     E7           Am
+porque te fuiste cuando es que volveras
+             Dm        E7               F     G
+que cosa me diste, que no te podido olvidar.
+
+[Bridge]
+Am    Dm
+llevame
+  E7          Am
+llevame a la luna
+ Am    Dm
+llevame
+ E7    Am
+como tú ninguna.
+
+[Verse 3]
+Am              Dm
+me gusta vivir, me gusta soñar
+  E7                     Am
+que puedo pedir si he nacido pa'gozar
+                        Dm
+tu boca es mi vicio, tu amor mi aeropuerto
+  E7             Am
+y mi pasaporte pa'subir al cielo.
+
+[Chorus]
+             Dm    E7           Am
+porque te fuiste cuando es que volveras
+             Dm       E7                F    G
+que cosa me diste, que no te podido olvidar.
+
+[Outro]
+llevame...`
+  },
+  {
+    id: "mujer-amante",
+    title: "Mujer Amante",
+    artist: "Rata Blanca",
+    key: "Am",
+    capo: 0,
+    source: "https://chords.lacuerda.net/rata_blanca/mujer_amante-5.shtml",
+    body: `[Intro]
+Am  G  Am  G  Am  C  G  Am  C  G  F  Dm  Am
+
+[Verse 1]
+Am                                     G
+Siento el calor de toda tu piel en mi cuerpo otra vez
+Am                C                 G
+Estrella fugaz enciende mi ser, misteriosa mujer
+F                              Am
+Con tu amor sensual, cuanto me das
+                    G  Dm  C
+Haz que mi sueño sea una verdad
+            F                            Am
+Dame tu alma hoy, haz el ritual
+                  G       Dm   E
+Llévame al mundo donde pueda soñar
+
+[Chorus]
+Am   C                  G                Am
+Uuuhh Debo saber si es verdad que en algún lado estas
+              C      G        Am
+Voy a buscar una señal, una canción
+Am   C                  G           Am
+Uuuhh Debo saber si en verdad en algún lado estas
+              C          G       Am  G  C  F  E
+Solo el amor que tu me das me ayudaraaa-aaa-aaa
+
+[Verse 2]
+Am                   C                          G
+Al amanecer tu imagen se va, misteriosa mujer
+Am          F     C                 G
+Dejaste en mi lujuria total, hermosa y sensual
+Corazón sin dios, dame un lugar
+En ese mundo tibio, casi irreal
+Deberé buscar una señal
+En aquel camino por el que vas
+
+[Chorus]
+Am        C                  G           Am
+Debo saber si en verdad en algún lado estas
+      C      G        Am
+Voy a buscar una señal, una canción
+Am        C                  G           Am
+Debo saber si en verdad en algún lado estas
+      C          G       Am
+Solo el amor que tu me das me ayudara
+
+[Bridge]
+F             Dm                Am
+Tu presencia marcó en mi vida el amor, lo sé
+G              Dm               C
+Es difícil pensar en vivir ya sin vos
+Corazón sin dios, dame un lugar
+En ese mundo tibio, casi irreal
+
+[Chorus]
+Am        C                  G           Am
+Debo saber si en verdad en algún lado estas
+      C      G        Am
+Voy a buscar una señal, una canción
+Am        C                  G           Am
+Debo saber si en verdad en algún lado estas
+      C          G       Am
+Solo el amor que tu me das me ayudara
+
+[Outro]
+(Cierre lento con arpegios Am-C-G-F-Dm y un rasgueo corto en Am)`
+  },
+  {
+    id: "cuando-los-angeles-lloran",
+    title: "Cuando los Ángeles Lloran",
+    artist: "Maná",
+    key: "C#m",
+    capo: 0,
+    source: "https://www.e-chords.com/chords/mana/cuando-los-angeles-lloran-mtv-umpluged",
+    body: `[Intro]
+C#m  B  A  E
+
+[Verse 1]
+C#m                      B
+A Chico Méndez lo mataron
+                          A
+era un defensor y un ángel
+                   E     C#m
+de toda la Amazonia
+                      B
+El murió a sangre fría
+                      A
+lo sabía Collor de Melo
+                  E    G#
+y también la policía
+
+[Chorus]
+                    C#m
+Cuando los ángeles lloran
+                        A
+lluvia cae sobre la aldea
+                     E
+lluvia sobre el campanario
+                B
+pues alguien murió
+            C#m    A
+Un ángel cayó
+              E    B
+un ángel murió
+             C#m   A
+un ángel se fue
+           E  B
+y no volverá
+
+[Verse 2]
+C#m                 B
+Cuando el asesino huía
+                    A
+Chico Méndez se moría
+                  E   C#m
+la selva se ahogaba
+                             B
+en llanto
+El dejó dos lindos críos
+                A
+una esposa valerosa
+                   E   G#
+y una selva en agonía
+
+[Chorus]
+                        C#m
+Cuando los ángeles lloran
+                          A
+es por cada árbol que muere
+                         E
+cada estrella que se apaga
+              B
+ho...no...noo..
+          C#m   A
+Un ángel cayó
+             E   B
+un ángel murió
+              C#m  A
+un ángel se fue
+           E  B
+y no volverá
+            C#m  A
+Un ángel cayó
+             E   B
+un ángel murió
+              C#m   A
+un ángel se fue
+                          E  B
+se fue volando en madrugada
+
+[Solo]
+C#m  G#  F#m
+
+[Outro]
+C#m                     A
+Cuando los ángeles lloran
+                        E
+Cuando los ángeles lloran
+       B   C#m
+lloverá
+                        A
+Cuando los ángeles lloran
+                        E
+Cuando los ángeles lloran
+       B   C#m
+lloverá
+      A           E     B   C#m
+Huuuu aaaa ho... no..no..
+      A           E     B
+Huuuu aaaa ho... no..no.`
+  },
+  {
+    id: "ya-lo-veia-venir",
+    title: "Ya Lo Veía Venir",
+    artist: "Moderatto",
+    key: "D",
+    capo: 0,
+    source: "https://chords.lacuerda.net/moderatto/ya_lo_veia_venir-2.shtml",
+    body: `[Intro]
+D  C  B  C  D  C  B
+(power chords throughout - root + fifth only)
+
+[Verse 1]
+D
+Se, que a mi puerta
+Ha llamado el amor
+                        A
+Y es que lo nuestro no tiene solución
+G                 D  C  D
+Si, ya lo venia venir
+
+D
+Se, que la culpa no es tuya
+Es de los dos pero hay un bloque de
+  A
+hielo entre tú y yo
+G                D  C  D
+Si, ya lo veía venir
+
+[Pre-Chorus]
+Em                G
+No es que sea mala onda
+      Bm
+Pero te lo voy a decir
+Em                    G
+De alguien me he enamorado
+       Bm          A     G
+Y con más fuerza que de tiiiii
+     A
+Ya lo veía venir
+
+[Chorus]
+D              A
+Si, ya lo veía venir
+   Em
+Y me basto solo una noche
+      G
+Para besarnos en el coche
+D                     A
+Si, y no me acorde de ti
+  Em
+Te juro no quería hacerlo pero al
+   G
+final te puse el cuerno
+Em  G               D
+Si,    ya lo veía venir
+
+[Instrumental]
+C  B  C  D  C  B  C  D  C  B  C  D  D  C  B
+
+[Verse 2]
+D
+Se que me he portado muy mal y me encanto
+                    A
+Ya no me llames lo nuestro se acabo
+G                D
+Si, es el amor juvenil
+
+D
+Se, que en unos causo terror y decepción
+                    A
+A mi me encanta sentir el descontrol
+G                 D
+Si, es el amor juvenil
+
+Em            G           Bm
+Regrésame las fotos y los discos de moderatto
+Em             G                 Bm
+Se que vas a decir que soy de lo peor
+       A      G
+Y que soy un asco
+                A
+Que poca madre!
+              D
+Ya lo veía venir
+
+[Chorus]
+D              A
+Si, ya lo veía venir
+   Em
+Y me basto solo una noche
+      G
+Para besarnos en el coche
+D                     A
+Si, y no me acorde de ti
+  Em
+Te juro no quería hacerlo pero al
+   G
+final te puse el cuerno
+Em  G                  D
+Si,    ya lo veía venir
+
+[Bridge]
+G            D             A   D  A
+Y sabes lo nuestro no iba bien
+D/F#  G                D
+      No lo hagas difícil
+         F#
+Dame un beso y dime adiós
+            G
+Pues si lo pienso dos tres veces
+Me arrepiento así soy yo
+
+[Chorus]
+D                A
+Si, ya lo veía venir
+      Em
+Y me basto solo una noche
+      G
+Para besarnos en el coche
+D                            A
+Si si si si y no me acorde de ti
+        Em
+Te juro no quería hacerlo pero al
+  G
+final te puse el cuerno
+Em  G                   D
+Si,      ya lo veía venir
+Em  G                   D
+Si,      ya lo veía venir`
+  },
+  {
+    id: "zombie",
+    title: "Zombie",
+    artist: "The Cranberries",
+    key: "Em",
+    capo: 0,
+    source: "https://www.e-chords.com/chords/the-cranberries/zombie",
+    body: `[Intro]
+Em  C  G  D/F#
+
+[Verse 1]
+Em         C
+Another head hangs lowly
+G               D/F#
+Child is slowly taken
+Em                  C
+And the violence caused such silence
+G             D/F#
+Who are we mistaken
+         Em
+but you see, it's not me
+          C
+it's not my family
+          G
+in your head, in your head
+            D/F#
+they are fighting
+            Em
+With their tanks, and their bombs,
+            C
+and their bombs, and their guns
+         G                           D/F#
+In your head, in your head they are cryin'
+
+[Chorus]
+         Em             C
+In your head, In your head
+     G              D/F#
+Zombie, zombie, zombie eh eh
+                Em            C
+What's in your head, in your head
+     G             D/F#
+Zombie, zombie, zombie eh eh eh oh
+
+[Instrumental]
+Em  C  G  D/F#
+
+[Verse 2]
+Em         C
+Another mother's breakin'
+G                D/F#
+heart is taking over
+Em                    C
+when the violence causes such silence
+     G           D/F#
+we must be mistaken
+          Em                  C
+it's the same old theme since 1916
+         G
+in your head,
+                             D/F#
+in your head they're still fightin'
+           Em
+With their tanks and their bombs
+           C
+And their bombs and their guns
+         G                           D/F#
+In your head, in your head they are dying
+
+[Chorus]
+         Em             C
+In your head, In your head
+     G              D/F#
+Zombie, zombie, zombie eh eh
+                Em            C
+What's in your head, in your head
+     G             D/F#
+Zombie, zombie, zombie eh eh eh oh
+
+[Outro]
+Em  C  G  D/F#
+Em  C`
+  },
+  {
+    id: "torn",
+    title: "Torn",
+    artist: "Natalie Imbruglia",
+    key: "F",
+    capo: 0,
+    source: "https://www.e-chords.com/chords/natalie-imbruglia/torn",
+    body: `[Intro]
+F  Bb  F  Gm
+
+[Verse 1]
+F                                      Am
+I thought I saw a man brought to life
+                                                     Bb
+He was warm, he came around like he was dignified
+He showed me what it was to cry
+F                                       Am
+Well you couldn't be that man I adored
+You don't seem to know
+                                         Bb
+Don't seem to care what your heart is for
+But I don't know him anymore
+
+[Pre-Chorus]
+                 Dm
+There's nothing where he used to lie
+                C
+My conversation has run dry
+               Am
+That's what's going on
+               C
+Nothing's fine
+                       F
+I'm torn
+
+[Chorus]
+F                    C                Dm
+I'm all out of faith, this is how I feel
+                               Bb                         F
+I'm cold and I am shamed, lying naked on the floor
+                               C                      Dm
+Illusion never changed into something real
+                                Bb                              F
+I'm wide awake and I can see, the perfect sky is torn
+                              C                  Dm      Bb
+You're a little late, I'm already torn
+
+[Verse 2]
+F                                      Am
+So I guess the fortune teller's right
+                                                                Bb
+I should have seen just what was there and not some holy light
+But you crawl beneath my veins and now
+
+[Pre-Chorus]
+                 Dm
+I don't care, I have no luck
+                  C
+I don't miss it all that much
+                 Am
+There's just so many things
+                     C
+That I can't touch
+                       F
+I'm torn
+
+[Chorus]
+F                    C                Dm
+I'm all out of faith, this is how I feel
+                               Bb                         F
+I'm cold and I am shamed, lying naked on the floor
+                               C                      Dm
+Illusion never changed into something real
+                                Bb                              F
+I'm wide awake and I can see, the perfect sky is torn
+                              C                  Dm      Bb
+You're a little late, I'm already torn
+
+Dm        Bb       Dm            F         C
+Torn...             Ooooh...  Hoo ooooh...  Ooooh
+
+[Pre-Chorus]
+                 Dm
+There's nothing where he used to lie
+                  C
+My inspiration has run dry
+                 Am
+That's what's going on
+                      C
+Nothing's right
+                       F
+I'm torn
+
+[Chorus]
+F                    C                Dm
+I'm all out of faith, this is how I feel
+                               Bb                         F
+I'm cold and I am shamed, lying naked on the floor
+                               C                      Dm
+Illusion never changed, into something real
+                                Bb                              F
+I'm wide awake and I can see, the perfect sky is torn
+                                 C                Dm
+I'm all out of faith, this is how I feel
+                               Bb                              F
+I'm cold and I am shamed, bound and broken on the floor
+                              C                  Dm       Bb
+You're a little late, I'm already torn
+
+[Outro]
+Dm   C
+Torn... (much wailing)
+Ooh...
+(instrumental solo over F-C-Dm-Bb to fade)`
   }
 ];
